@@ -1,0 +1,13 @@
+*{
+    font-family: 'Arvo', serif;
+    font-weight: 500;
+    color: #333333;
+}
+h1 {
+    font-size: 5rem;
+}
+.background {
+    text-align: center;
+    text-transform: uppercase;
+    background-image: linear-gradient(to right, red , yellow);
+}
